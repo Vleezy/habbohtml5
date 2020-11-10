@@ -35,6 +35,7 @@ Pour l'installation...
 ## Versions
 
 **Dernière version stable :** actuellement non stable, beaucoup de fonctionnalités manquent
+
 **Dernière version :** 1.1
 
 ## Auteurs
